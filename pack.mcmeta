@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 6,
+      "description": "Derle Translate Pack"
+   },
+ "language": {
+      "del_et": {
+         "name": "derle",
+         "region": "derle",
+         "bidirectional": false
+      }
+   }
+}
